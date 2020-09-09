@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.email = 'developers@squareup.com'
   s.homepage = 'https://squareup.com/developers'
   s.license = 'Apache-2.0'
-  s.add_dependency('logging', '~> 2.2')
+  # s.add_dependency('logging', '~> 2.2')
   s.add_dependency('faraday', '~> 0.15')
   s.add_dependency('faraday_middleware', '~> 0.13')
   s.add_dependency('certifi', '~> 2018.1')

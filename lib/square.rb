@@ -2,7 +2,7 @@ require 'date'
 require 'json'
 require 'faraday'
 require 'certifi'
-require 'logging'
+# require 'logging'
 
 require_relative 'square/api_helper.rb'
 require_relative 'square/client.rb'
